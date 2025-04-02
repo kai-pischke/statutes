@@ -10,17 +10,7 @@ The General Assembly is the highest decision-making body of the Federation. At t
 The Bureau must announce the date, time and location within at least three months before the General Assembly. An invitation for the General Assembly must be circulated eight weeks prior to the General Assembly to the members via e-mail.
 
 ## Languages {#gen-lang}
-The official languages of the association shall be English, French, and Spanish. In the case that no translation facilities are available the working language will be English.
-
-## Interpretation
-
-The interpretation of this document shall be subject to the ruling of the General Assembly. Where the Statutes, the Rules of Procedure or Internal Regulations cannot be applied, the General Assembly decides. In cases of contradiction between the Rules of Procedure and the Statutes of the association, the Statutes take precedence.
-
-## Amendments
-
-Every proposal that aims to change this document must be submitted to the Office at least four weeks prior to the General Assembly, or one week after the announcement of an Extraordinary General Assembly. The proposal is adopted if decided by a two-thirds majority.
-
-All changes to this document take effect immediately after the end of the General Assembly in which they are adopted.
+The General Assembly should use the official languages of the Federation. In the case that no translation facilities are available the working language will be English.
 
 # Membership Rights {#mem-rights}
 
@@ -93,7 +83,7 @@ The President, the Secretary General and the Treasurer shall be elected by simpl
 In each of the additional rounds, those who receive the least number of votes, in such a way that even if the votes of those who received less than them could be added to their votes would not change their position, will not participate in the next round.
 
 ## Vice President Elections {#ga-elections-vp}
-The Vice Presidents of the organization shall be elected as follows: On each ballot paper the member organizations select the candidates that should be elected as Vice Presidents in such a way that they mark the names of their choice. Each marked candidate will receive one vote. Each member organization must vote on the same number of candidates as the number of positions that must be filled. Voting ballots that do not have the full number of candidates as positions that must be filled will be counted as invalid. The 4 candidates with the most votes are elected in the order of the amount of votes. Only candidates reaching the quorum defined by the following formula are elected: $\frac{1}{\text{the positions available for election} + 1}$ will be eligible for election, meaning i.e. that for four Vice President positions the quorum will be $\frac{1}{4 + 1} = 20\%$ of the total votes possible. For three positions the formula will be $\frac{1}{3 + 1} = 25\%$ of the total votes possible. For two positions the quorum will be $\frac{1}{2 + 1} = 33.33\%$ of the total votes possible. In case of only one vacant position for a round of election, the principle of simple majority shall be used, as is the case with the positions of President, Secretary General and Treasurer as well.  
+The Vice Presidents of the organization shall be elected using the single transferable vote system (STV), in a way that safeguards the anonymity of votes. Each marked candidate will receive one vote. Each member organization must vote on the same number of candidates as the number of positions that must be filled. Voting ballots that do not have the full number of candidates as positions that must be filled will be counted as invalid. The 4 candidates with the most votes are elected in the order of the amount of votes. Only candidates reaching the quorum defined by the following formula are elected: $\frac{1}{\text{the positions available for election} + 1}$ will be eligible for election, meaning i.e. that for four Vice President positions the quorum will be $\frac{1}{4 + 1} = 20\%$ of the total votes possible. For three positions the formula will be $\frac{1}{3 + 1} = 25\%$ of the total votes possible. For two positions the quorum will be $\frac{1}{2 + 1} = 33.33\%$ of the total votes possible. In case of only one vacant position for a round of election, the principle of simple majority shall be used, as is the case with the positions of President, Secretary General and Treasurer as well.  
 
 In case that there are not enough candidates reaching the quorum of the votes, a new round of voting will be held for the remaining place(s). If there are not enough candidates reaching the quorum in the second round of voting, the position will remain vacant until a new call for elections is issued at the next General Assembly. If there are more selections on the ballot paper than the number of the Vice President positions to be elected, the ballot paper is considered invalid. The ballot will also be invalid if it is not possible to identify the names on the ballot. If candidates receive an equal number of votes and it remains unclear which candidates shall be elected, then a second round of voting between these candidates is to be conducted using the above mentioned procedure. Should in this second round of voting, an equal number of votes remain, then lots will be drawn to determine the winner.
 
@@ -106,7 +96,7 @@ For the appointment of the first Advisory Council, Advisory Council members will
 ## Expulsion and Replacement {#ga-elections-expulsion}
 It is the right of a General Assembly, both ordinary and extraordinary, to put the mandate of an elected person in question and to terminate that mandate following a motion of no-confidence with a two-thirds majority.
 
-Following an expulsion of an elected person it is the right of the General Assembly to immediately elect a replacement. The newly elected Bureau member or auditor will have a period of mandate that expires at the next General Assembly.
+Following the expulsion of an elected person it is the right of the General Assembly to immediately elect a replacement. The newly elected Bureau member or auditor will have a period of mandate that expires at the next General Assembly, where, would the mandate of the expelled Bureau member or auditor have originally not been elapsed yet, an election will be held for that position with a term that lasts until the end of the term of the expelled Bureau member or auditor.
 
 In case of a resignation of a Bureau member, the Bureau has the power to appoint a replacement in a non-voting capacity until the next General Assembly, provided there is no meeting of the General Assembly in the following 30 days.
 
@@ -122,7 +112,7 @@ In elections where multiple rounds of voting are required, successive rounds sha
 The agenda of the statutory event may include proposals and reports. The agenda will be proposed to the membership four weeks before the General Assembly.
 
 ## Organizational Proposals {#ga-org-proposals}
-Items which propose a change from the status quo. This can include, but is not limited to, organizational motions, the budget proposal, and amendments to the statutory documents. The deadline for submitting organizational proposals is four weeks before the Statutory Meeting.
+Items which propose a change from the status quo. This can include, but is not limited to, organizational motions, the budget proposal, and amendments to the statutory documents. The deadline for submitting organizational proposals is four weeks before the Statutory Meeting or one week after the announcement of an Extraordinary General Assembly, whichever gives the member organizations more time.
 
 ## Political Proposals {#ga-political-proposals}
 Items which propose a change from the status quo. This can include, but is not limited to, resolutions and amendments to Manifesto. Except for the Manifesto proposals, the deadline for submitting proposals is two weeks before the General Assembly, and shall be made available to the member organizations no later than one week before the General Assembly. Manifesto proposals must be submitted four weeks before the General Assembly, and shall be made available to the member organizations no later than one week before the General Assembly.
@@ -190,7 +180,6 @@ put to a vote.
 These points shall be limited to:
 
 (a) points of order, which is a request from the floor that seeks to remind or correct the Chair on the issue of the standing orders, and shall be decided upon immediately by the Chair when raised;
-(b) points of privilege, which is a request to address a discomfort or issue that hinders the proper participation of someone from the floor.
 
 If the Chair deems an individual to be abusing their right to raise Procedural Points, the Chair should ask the individual to refrain from raising them until proceedings have moved on.
 
@@ -215,4 +204,4 @@ The decisions of the General Assembly shall be entered in the minutes and will b
 
 In the case of an Extraordinary General Assembly, no decisions on items not mentioned on the agenda can be taken.
 
-The minutes will be approved by the next General Assembly.
+The minutes should be up for approval by the next General Assembly.
