@@ -14,7 +14,7 @@ The registered office of the association is located in the Brussels-Capital Regi
 ## Aim {#aim}
 IFLRY is a federation of youth organisations and young individuals with the collective aim of promoting freedom and advocating for political liberalism around the globe. IFLRY commits itself to the active advancement of human rights, democracy, stable property rights, rule of law, and free trade. IFLRY provides political education and acts as a platform for networking and exchanging ideas. These aims shall be advanced through publications, seminars, policy recommendations, exchanges, symposia, courses, and statutory events. IFLRY further strives to facilitate democratic inclusion, local and international activism, and cooperation between its member organisations.
 
-## Language 
+## Language {#language}
 The official languages of the organisation are French, Spanish and English. The working language of the association is English and is used for all official documents apart from the Statutes, for which the French version is binding as required by Belgian law. 
 
 ## Documents {#docs}
@@ -135,7 +135,7 @@ The financial year of IFLRY is the calendar year.
 The Office consists of at least the Executive Director, possibly joined by other staff as decided by the Bureau. Any changes to the Office are decided by the Bureau. In cases where the position of Executive Director is vacant, the Secretary General may act as a contact point for issues that would normally be handled by the Office. 
 
 # Amendments to Governing Documents
-Every proposal that aims to amend the documents listed in [article](#docs) can be passed by a two-thirds majority vote of the General Assembly. Proposals to change the Statutes must be made by the Bureau, or by a group of no less than two full member organisations. 
+Every proposal that aims to amend the documents listed in [article](#docs) can be passed by a two-thirds majority vote of the General Assembly. Proposals to change the Statutes must be made by the Bureau, or by a group of no less than two full member organisations. Amendments must be submitted in the language used for that document as described in [article](#language).
 
 # Dissolution
 Every proposal that aims to dissolve the Federation must be put forward by the Bureau, a group of full member organisations representing at least one-fifth of the votes that could have been cast at the most recent General Assembly, or by a group of at least one-fourth of the full member organisations. Any proposal for dissolution of the Federation must be carried by two consecutive General Assemblies. At the first General Assembly, the proposal must be supported by at least a two-thirds majority. At the second General Assembly, the same proposal must have a simple majority in order to take effect.
